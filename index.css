@@ -1,0 +1,159 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.black-bg {
+    height: 530px;
+    width: 300px;
+    background-color: #1b1b1b;
+}
+
+.heading-pbook {
+    color: #ffffff;
+    font-size: 25px;
+    font-family: Bree Serif;
+    text-align: left;
+    padding-top: 15px;
+    padding-left: 15px;
+}
+
+.top-card {
+    text-align: center;
+    margin-left: 17px;
+    margin-right: 17px;
+    margin-bottom: 12px;
+    background-color: #e6f6ff;
+    height: 150px;
+    width: 270;
+    border-radius: 10px;
+}
+
+.first-image {
+    height: 150px;
+    width: 120px;
+}
+
+.top-card-details {
+    padding-bottom: 15px;
+    padding-top: 12px;
+    padding-left: 12px;
+    text-align: left;
+}
+
+.card-heading {
+    font-family: Bree Serif;
+    color: #183b56;
+    font-size: 14px;
+}
+
+.card-paragraph {
+    font-family: Bree Serif;
+    color: #06070d;
+    font-size: 10px;
+}
+
+.card-paragraph-two {
+    font-family: Bree Serif;
+    color: #183b56;
+    font-size: 9px;
+}
+
+.r-books {
+    color: #ffffff;
+    font-size: 15px;
+    font-family: Bree Serif;
+    text-align: left;
+    padding-left: 15px;
+}
+
+.second-top-card {
+    margin-left: 17px;
+    margin-right: 17px;
+    height: 150px;
+    width: 270;
+    border-radius: 10px;
+}
+
+.second-image {
+    height: 120px;
+    width: 70px;
+}
+
+.second-top-card-details {
+
+    padding-left: 12px;
+    text-align: left;
+}
+
+.second-card-heading {
+    font-family: Bree Serif;
+    color: #ffffff;
+    font-size: 14px;
+}
+
+.second-card-paragraph {
+    font-family: Bree Serif;
+    color: #ffffff;
+    font-size: 10px;
+}
+
+.second-card-paragraph-two {
+    font-family: Bree Serif;
+    color: #ffffff;
+    font-size: 10px;
+}
+
+.buttons {
+    background-color: #3baced;
+    color: #ffffff;
+    border-radius: 5px;
+    border-width: 0px;
+    font-family: Roboto;
+    font-size: 10px;
+    height: 25px;
+    width: 75px;
+    text-align: center;
+}
+
+.big-image {
+    height: 250px;
+    width: 160px;
+    border-radius: 8px;
+    margin-left: 70px;
+    margin-top: 15px;
+}
+
+.y-button {
+    margin-left: 80px;
+    background-color: #edc13b;
+    color: black;
+    border-radius: 5px;
+    border-width: 0px;
+    font-family: Roboto;
+    font-size: 10px;
+    height: 25px;
+    width: 40px;
+    text-align: center;
+}
+
+.section-two-heading {
+    color: #ffffff;
+    font-size: 25px;
+    font-family: Bree Serif;
+    text-align: center;
+    padding-top: 15px;
+    padding-left: 15px;
+}
+
+.section-two-paragraph {
+    font-family: Bree Serif;
+    color: #9aa5b1;
+    font-size: 10px;
+    text-align: center;
+}
+
+.section-two-para-two {
+    padding-left: 15px;
+    font-family: Bree Serif;
+    color: #e4e7eb;
+    font-size: 10px;
+    text-align: left;
+}
